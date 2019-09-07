@@ -1,0 +1,89 @@
+Input/Plot 1: Large random inputs
+==================================
+Insertion Sort: Input Size=5000 AvgExecutionTime=25 milliseconds
+Selection Sort: Input Size=5000 AvgExecutionTime=12 milliseconds
+
+Insertion Sort: Input Size=10000 AvgExecutionTime=94 milliseconds
+Selection Sort: Input Size=10000 AvgExecutionTime=53 milliseconds
+
+Insertion Sort: Input Size=15000 AvgExecutionTime=248 milliseconds
+Selection Sort: Input Size=15000 AvgExecutionTime=195 milliseconds
+
+Insertion Sort: Input Size=20000 AvgExecutionTime=288 milliseconds
+Selection Sort: Input Size=20000 AvgExecutionTime=247 milliseconds
+
+Insertion Sort: Input Size=25000 AvgExecutionTime=713 milliseconds
+Selection Sort: Input Size=25000 AvgExecutionTime=691 milliseconds
+
+Insertion Sort: Input Size=30000 AvgExecutionTime=1871 milliseconds
+Selection Sort: Input Size=30000 AvgExecutionTime=1010 milliseconds
+
+
+Input/Plot 2: Non-decreasing inputs
+==================================
+Insertion Sort: Input Size=5000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=5000 ExecutionTime=17 milliseconds
+
+Insertion Sort: Input Size=10000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=10000 ExecutionTime=78 milliseconds
+
+Insertion Sort: Input Size=15000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=15000 ExecutionTime=147 milliseconds
+
+Insertion Sort: Input Size=20000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=20000 ExecutionTime=228 milliseconds
+
+Insertion Sort: Input Size=25000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=25000 ExecutionTime=462 milliseconds
+
+Insertion Sort: Input Size=30000 ExecutionTime=0 milliseconds
+Selection Sort: Input Size=30000 ExecutionTime=486 milliseconds
+
+
+Input/Plot 3: Non-increasing inputs
+==================================
+Insertion Sort: Input Size=5000 ExecutionTime=50 milliseconds
+Selection Sort: Input Size=5000 ExecutionTime=0 milliseconds
+
+Insertion Sort: Input Size=10000 ExecutionTime=122 milliseconds
+Selection Sort: Input Size=10000 ExecutionTime=33 milliseconds
+
+Insertion Sort: Input Size=15000 ExecutionTime=338 milliseconds
+Selection Sort: Input Size=15000 ExecutionTime=172 milliseconds
+
+Insertion Sort: Input Size=20000 ExecutionTime=517 milliseconds
+Selection Sort: Input Size=20000 ExecutionTime=219 milliseconds
+
+Insertion Sort: Input Size=25000 ExecutionTime=1410 milliseconds
+Selection Sort: Input Size=25000 ExecutionTime=485 milliseconds
+
+Insertion Sort: Input Size=30000 ExecutionTime=1195 milliseconds
+Selection Sort: Input Size=30000 ExecutionTime=401 milliseconds
+
+
+Input/Plot 4: Noisy non-decreasing inputs
+==================================
+Insertion Sort: Input Size=5000 ExecutionTime=5 milliseconds
+Selection Sort: Input Size=5000 ExecutionTime=4 milliseconds
+
+Insertion Sort: Input Size=10000 ExecutionTime=1 milliseconds
+Selection Sort: Input Size=10000 ExecutionTime=54 milliseconds
+
+Insertion Sort: Input Size=15000 ExecutionTime=3 milliseconds
+Selection Sort: Input Size=15000 ExecutionTime=201 milliseconds
+
+Insertion Sort: Input Size=20000 ExecutionTime=4 milliseconds
+Selection Sort: Input Size=20000 ExecutionTime=223 milliseconds
+
+Insertion Sort: Input Size=25000 ExecutionTime=7 milliseconds
+Selection Sort: Input Size=25000 ExecutionTime=317 milliseconds
+
+Insertion Sort: Input Size=30000 ExecutionTime=3 milliseconds
+Selection Sort: Input Size=30000 ExecutionTime=691 milliseconds
+
+
+Input/Plot 5: Small random inputs
+==================================
+Insertion Sort: Input Size=100000 ExecutionTime=40961 milliseconds
+Selection Sort: Input Size=100000 ExecutionTime=3800 milliseconds
+
